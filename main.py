@@ -7,4 +7,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message":"Hello TutLinks.com"}
+    return {"message":"Amal is great"}
